@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:191,Artist Name - Song Title
+C:\Music\Song1.mp3
+#EXTINF:250,Another Artist - Another Song
+C:\Music\Folder\Song2.mp3
