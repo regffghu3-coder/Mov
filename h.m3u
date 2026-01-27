@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Chikan Monogatari" tvg-language="Japones" tvg-logo="https://img.hentaihaven.xxx/images/esphnt/v/c/s_chikan-monogatari.jpg" group-title="Anime",Chikan Monogatari - Episodio 2
+https://es.master-lengs.org/api/v3/hh/chikan-monogatari-2/master.m3u8?hash=1c4E7k_U89SQ4m_BeMu3Kg&expirein=1769513101
+
 #EXTINF:-1 tvg-id="" tvg-name="Chikan Monogatari" tvg-language="Japones" tvg-logo="https://img.hentaihaven.xxx/images/esphnt/v/c/s_chikan-monogatari.jpg" group-title="Anime",Chikan Monogatari - Episodio 1
 https://es.master-lengs.org/api/v3/hh/chikan-monogatari-1/master.m3u8?hash=XdkNfPQcvCL91K6aZV46KQ&expirein=1769512966
 
