@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Chikan Monogatari" tvg-language="Japones" tvg-logo="https://img.hentaihaven.xxx/images/esphnt/v/c/s_chikan-monogatari.jpg" group-title="Anime",Chikan Monogatari - Episodio 1
+https://es.master-lengs.org/api/v3/hh/chikan-monogatari-1/master.m3u8?hash=XdkNfPQcvCL91K6aZV46KQ&expirein=1769512966
+
 #EXTINF:-1 tvg-id="" tvg-name="Kiken na Mori - Episodio 1" tvg-language="Japones" tvg-logo="https://img.hentaihaven.xxx/images/hh/y/j/s_Kiken-na-Mori-Episode-1.jpg" group-title="Anime",Kiken na Mori - Episodio 1
 https://es.master-lengs.org/api/v3/hh/boku-no-risou-no-isekai-seikatsu-1-esp/master.m3u8?hash=DNgkp_3OCTuTpavQ1FmpXA&expirein=1769511188
 
